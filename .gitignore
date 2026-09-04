@@ -1,0 +1,15 @@
+# Publish only the root navigation and reviewed student-facing notebooks.
+/*
+!/.gitignore
+!/README.md
+!/course/
+/course/*
+!/course/*.ipynb
+
+# Never publish generated or transient notebook files.
+/course/.ipynb_checkpoints/
+/course/*_executed.ipynb
+
+# Copyrighted and instructor-only sources remain outside the release tree.
+/HandonMLDL/
+/MLDLwithPytorchSK/
