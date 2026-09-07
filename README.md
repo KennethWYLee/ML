@@ -1,6 +1,6 @@
 # Machine Learning
 
-This private repository contains the shared course materials for students and the instructor, based on *Machine Learning with PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models with Python*. Each chapter uses one notebook for reading, teaching, and discussion.
+This public repository contains the shared course materials for students and the instructor, based on *Machine Learning with PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models with Python*. Each chapter uses one notebook for reading, teaching, and discussion.
 
 ## Course objective
 
