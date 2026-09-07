@@ -1,6 +1,6 @@
 # Machine Learning
 
-This private repository contains the student-facing materials for the machine learning course based on *Machine Learning with PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models with Python*.
+This private repository contains the shared course materials for students and the instructor, based on *Machine Learning with PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models with Python*. Each chapter uses one notebook for reading, teaching, and discussion.
 
 ## Course objective
 
@@ -37,7 +37,7 @@ The outline describes the sequence and learning direction rather than a minute-b
 
 ## Chapter materials
 
-| Chapter | Student notebook |
+| Chapter | Course notebook |
 |---:|---|
 | 1 | [Giving Computers the Ability to Learn from Data](course/ch01main.ipynb) |
 
@@ -66,4 +66,4 @@ Official code: <https://github.com/rasbt/machine-learning-book>
 
 ## Repository boundary
 
-This repository contains only reviewed student-facing course materials. Textbooks, instructor records, builders, validators, audits, solutions, unreleased assessments, and student records are maintained locally and are not published here.
+This repository contains reviewed course materials shared by students and the instructor. Textbooks, internal maintenance records, builders, validators, audits, solutions, unreleased assessments, and student records are maintained locally and are not published here.
