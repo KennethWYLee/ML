@@ -40,6 +40,7 @@ The outline describes the sequence and learning direction rather than a minute-b
 | Chapter | Course notebook |
 |---:|---|
 | 1 | [Giving Computers the Ability to Learn from Data](course/ch01main.ipynb) |
+| 2 | [Training Machine Learning Algorithms for Classification](course/ch02main.ipynb) |
 
 Additional chapter notebooks will be added after review.
 
