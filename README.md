@@ -8,7 +8,11 @@ This course introduces the foundations of machine learning and guides students i
 
 ## Course content
 
-The course follows Chapters 1-10 of the textbook. It covers machine learning foundations, classification, data preprocessing, dimensionality reduction, model evaluation and tuning, ensemble learning, sentiment analysis, regression, and clustering. Concepts and mathematical reasoning are connected to executable examples and result interpretation, then integrated through individual midterm and final project reports.
+The course follows Chapters 1–10 of *Machine Learning with PyTorch and Scikit-Learn*. It covers machine learning foundations, classification, data preprocessing, dimensionality reduction, model evaluation and tuning, ensemble learning, sentiment analysis, regression, and clustering. Concepts and mathematical reasoning are connected to executable examples and result interpretation, then integrated through individual midterm and final project reports.
+
+Students read the chapter materials independently, predict results before running code, interpret figures and tables, and discuss evidence in groups. They compare the reasoning behind different groups' responses rather than simply checking whether the conclusions agree.
+
+From the first model-building exercises in Chapters 2–4, students learn the roles of training, validation, and test data. Preprocessing parameters are fitted using only the training data for the corresponding evaluation; validation data guide model choices, while the reserved test set is excluded from those choices. Chapter 6 develops these foundations into cross-validation, model evaluation, and hyperparameter optimization.
 
 ## Weekly outline
 
@@ -33,7 +37,7 @@ The course follows Chapters 1-10 of the textbook. It covers machine learning fou
 | 17 | Written Examination 2: Chapters 4-10; Final Evidence Check |
 | 18 | Individual Final Project Report |
 
-The outline describes the sequence and learning direction rather than a minute-by-minute allocation. Material not completed in class may be continued independently.
+The weekly outline is a reference schedule and may be adjusted to course progress. Materials remain organized as complete chapters rather than fixed weekly units. Material not completed in class may be continued independently.
 
 ## Chapter materials
 
@@ -55,7 +59,11 @@ Additional chapter notebooks will be added after review.
 | Individual Final Project Report | 35% |
 | **Total** | **100%** |
 
-The midterm report presents the problem, data, features, target, split, visible preprocessing, a simple executable baseline, initial results, limitations, and the plan for later validation. It does not require a completed hyperparameter search before Chapter 6 is taught. The final report adds model comparison, complete validation, error analysis, final evaluation, reproducibility evidence, and an individual explanation or operation check.
+The written examinations verify each student's understanding of shared machine learning concepts, mathematical relationships, code behavior, and output interpretation. Written Examination 2 uses selected cross-chapter problems rather than attempting to test every subsection of Chapters 4–10 by recall.
+
+The midterm report presents the problem, data, features, target, data split, visible preprocessing, a simple executable baseline, initial results, limitations, and a plan for later validation. Initial results use training and validation data, with their roles clearly identified. The reserved test set is not used to revise preprocessing, select models, or tune hyperparameters. A completed hyperparameter search or final model-selection procedure is not required before Chapter 6 is taught.
+
+The final report adds the complete validation design, model comparison, error analysis, reproducibility evidence, and an individual explanation or operation check. Final test evaluation takes place after preprocessing choices, model selection, and hyperparameters have been fixed; its results are reported without using the same test set to guide further model development.
 
 Lines of code, number of models, report length, number of prompts, and number of AI tools do not directly determine a grade.
 
