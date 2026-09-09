@@ -6,6 +6,9 @@
 /course/*
 !/course/*.ipynb
 
+# Instructor-provided textbook identification screenshot only, not the book PDF.
+!/course/semester-textbook.png
+
 # Never publish generated or transient notebook files.
 /course/.ipynb_checkpoints/
 /course/*_executed.ipynb

@@ -69,6 +69,8 @@ Lines of code, number of models, report length, number of prompts, and number of
 
 ## Textbook
 
+![This semester's textbook: Machine Learning with PyTorch and Scikit-Learn — book cover and product listing](course/semester-textbook.png)
+
 Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili, *Machine Learning with PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models with Python*, Packt Publishing, 2022.
 
 Official code: <https://github.com/rasbt/machine-learning-book>
